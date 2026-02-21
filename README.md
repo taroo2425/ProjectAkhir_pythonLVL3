@@ -22,9 +22,9 @@ Bot Discord dengan Database manhwa adalah bot yang bisa kalian gunakan untuk men
 ## Instalasi
 
 1. Clone repository:
-   git clone ....
+   git clone https://github.com/taroo2425/ProjectAkhir_pythonLVL3.git
 
-2. Install dependencies
+2. Install dependencies:
    pip install -r requirements.txt
 
 3. convert manhwa.csv menjadi SQLite database di python 'manhwa.db'
@@ -46,4 +46,6 @@ Bot Discord dengan Database manhwa adalah bot yang bisa kalian gunakan untuk men
 ## Author
 Created by Kiasatina Tunggawijaya(kias)
 
+noted! (project ini untuk kelulusan di kursus programming)
 (Project for graduation at programming course)
+
