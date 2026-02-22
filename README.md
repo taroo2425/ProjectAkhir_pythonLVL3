@@ -2,6 +2,7 @@
 Chatbot Manhwa!! Kamu bisa meminta rekomendasi manhwa lewat bot ini!!
 
 **Description**
+
 Bot Discord dengan Database manhwa adalah bot yang bisa kalian gunakan untuk mencari judul manhwa, mencari rekomendasi manhwa berdasarkan genre, mengetahui skor manhwa tertinggi saat ini, dan meminta rekomendasi acak dari bot ini.
 
 
@@ -47,3 +48,4 @@ Bot Discord dengan Database manhwa adalah bot yang bisa kalian gunakan untuk men
 Created by Kiasatina Tunggawijaya(kias)
 
 noted! (project ini untuk kelulusan di kursus programming)
+
