@@ -47,5 +47,3 @@ Bot Discord dengan Database manhwa adalah bot yang bisa kalian gunakan untuk men
 Created by Kiasatina Tunggawijaya(kias)
 
 noted! (project ini untuk kelulusan di kursus programming)
-(Project for graduation at programming course)
-
